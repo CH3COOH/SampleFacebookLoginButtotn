@@ -13,7 +13,6 @@
 		AA8238B82432035300E9708A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA8238B62432035300E9708A /* Main.storyboard */; };
 		AA8238BA2432035A00E9708A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA8238B92432035A00E9708A /* Assets.xcassets */; };
 		AA8238BD2432035A00E9708A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA8238BB2432035A00E9708A /* LaunchScreen.storyboard */; };
-		AA8238C724320B8F00E9708A /* FacebookSDKStrings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AA8238C624320B8F00E9708A /* FacebookSDKStrings.bundle */; };
 		AA8238CA24320C8500E9708A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = AA8238CC24320C8500E9708A /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		AA8238B92432035A00E9708A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA8238BC2432035A00E9708A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA8238BE2432035A00E9708A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AA8238C624320B8F00E9708A /* FacebookSDKStrings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = FacebookSDKStrings.bundle; sourceTree = "<group>"; };
 		AA8238CB24320C8500E9708A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		AA8238CD24320C8E00E9708A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		D56564E8AC9E9BCB75448EB5 /* Pods_SampleFacebookLoginButtotn.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SampleFacebookLoginButtotn.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,7 +70,6 @@
 				AA8238B92432035A00E9708A /* Assets.xcassets */,
 				AA8238BB2432035A00E9708A /* LaunchScreen.storyboard */,
 				AA8238BE2432035A00E9708A /* Info.plist */,
-				AA8238C624320B8F00E9708A /* FacebookSDKStrings.bundle */,
 				AA8238CC24320C8500E9708A /* Localizable.strings */,
 			);
 			path = SampleFacebookLoginButtotn;
@@ -160,7 +157,6 @@
 				AA8238BD2432035A00E9708A /* LaunchScreen.storyboard in Resources */,
 				AA8238BA2432035A00E9708A /* Assets.xcassets in Resources */,
 				AA8238B82432035300E9708A /* Main.storyboard in Resources */,
-				AA8238C724320B8F00E9708A /* FacebookSDKStrings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
